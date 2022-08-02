@@ -2,7 +2,7 @@
 
 ## Hello there!
 
-I am a full-stack software engineer with a background in mathematics and economics. I am at home working in a variety of languages and frameworks such as Javascript, Python, R, PostgreSQL, React, Redux, Node, HTML, and CSS, and I have employed these skills in projects ranging from a clone of the task-manager app Todoist to a generalization of Google's PageRank algorithm to produce a ranking for the top football clubs in UEFA. I have a passion for data-driven projects and designing intuitive user experiences and interfaces.
+I am a full-stack software engineer with a background in mathematics and economics. I am at home working in a variety of languages and frameworks such as Javascript, Python, R, PostgreSQL, React, Redux, Node, HTML, and CSS, and I have employed these skills in projects ranging from a clone of the task-manager app Todoist to a generalization of Google's PageRank algorithm to produce a ranking for the top football clubs in UEFA. I have a passion for logical problem-solving, data-driven projects, and designing intuitive user experiences and interfaces.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
